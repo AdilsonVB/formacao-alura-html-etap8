@@ -41,12 +41,12 @@ body{
 }      
     
 .rodape{
-    background-color: black;
+    background-color: #836FFF;
     text-align: center;
 }
         
 .rodape-imagem{
-    width: 5%; /* Define a largura como 5% do elemento pai */
+    width: 30%; /* Define a largura como 5% do elemento pai */
     height: 30px;
     padding: 12px 0;
 }
