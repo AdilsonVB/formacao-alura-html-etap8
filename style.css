@@ -37,7 +37,7 @@ body{
 
 .projeto-titulo{
     text-align: center;
-    padding: 60px 0;
+    padding: 40px 0;
 }      
     
 .rodape{
@@ -47,6 +47,6 @@ body{
         
 .rodape-imagem{
     width: 100%; /* Define a largura como 30% do elemento pai */
-    height: 80px;
+    height: 100px;
     padding: 12px 0;
 }
