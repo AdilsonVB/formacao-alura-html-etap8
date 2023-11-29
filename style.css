@@ -18,7 +18,7 @@ body{
     display: flex; /* Usa um layout flexível */
     justify-content: space-around; /* Distribui o espaço ao redor dos elementos filhos */
     align-items: center; /* Alinha os elementos filhos */
-    padding: 24px 0; /* Preenchimento superior e inferior como 24px e 0 nas laterais */
+    padding: 30px 0; /* Preenchimento superior e inferior como 30px e 0 nas laterais */
 }
 .cabecalho-imagem{
     width: 70%; /* Define a largura como 70% do elemento pai */
