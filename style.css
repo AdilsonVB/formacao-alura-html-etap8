@@ -46,8 +46,8 @@ body{
 }
         
 .rodape-imagem{
-    width: 130%; /* Define a largura como 70% do elemento pai */
-    height: 130%;
+    width: 90%; /* Define a largura como 70% do elemento pai */
+    height: 90%;
     padding: 12px 0;
     align-items:center
 }
