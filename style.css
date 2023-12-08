@@ -42,7 +42,7 @@ body{
 }      
     
 .curso{
-    background-image: linear-gradient(#51025a, #e85cda64);
+    background-image: linear-gradient #836FFF;
     color:white;
     display: flex;
     justify-content: center;
